@@ -140,11 +140,6 @@ engineer:
   <img src="https://streak-stats.demolab.com?user=dairyum&theme=tokyonight&hide_border=false&border_color=22D3EE&background=0D1117&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE" alt="GitHub Streak" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dairyum&theme=tokyonight&bg_color=0D1117&color=22D3EE&line=38BDF8&point=22D3EE&area=true&hide_border=false&border_color=22D3EE" alt="Activity Graph" width="95%" />
-</div>
 
 ---
 
