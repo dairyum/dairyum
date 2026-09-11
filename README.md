@@ -13,6 +13,7 @@
     <a href="https://jesus.dtempest.online"><img src="https://img.shields.io/badge/Live_Portfolio-jesus.dtempest.online-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
     <a href="https://dtempest.digital"><img src="https://img.shields.io/badge/Studio-dtempest.digital-8A2BE2?style=for-the-badge&logo=sparkles&logoColor=white" alt="Studio" /></a>
     <a href="mailto:jesuspacheco1333@gmail.com"><img src="https://img.shields.io/badge/Contact-Email_Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://komarev.com/ghpvc/?username=dairyum&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
 </div>
@@ -133,15 +134,16 @@ engineer:
 
 ---
 
-### 📊 GitHub Telemetry & Real-Time Metrics
+### 📊 GitHub Telemetry & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dairyum&show_icons=true&theme=tokyonight&hide_border=false&border_color=22D3EE&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0&icon_color=38BDF8" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dairyum&layout=compact&theme=tokyonight&hide_border=false&border_color=22D3EE&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0" alt="Top Languages" height="165" />
+  <img src="https://streak-stats.demolab.com?user=dairyum&theme=tokyonight&hide_border=false&border_color=22D3EE&background=0D1117&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE" alt="GitHub Streak" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dairyum&theme=tokyonight&hide_border=false&border_color=22D3EE&background=0D1117&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE" alt="GitHub Streak" />
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dairyum&theme=tokyonight&bg_color=0D1117&color=22D3EE&line=38BDF8&point=22D3EE&area=true&hide_border=false&border_color=22D3EE" alt="Activity Graph" width="95%" />
 </div>
 
 ---
