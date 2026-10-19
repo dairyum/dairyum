@@ -42,28 +42,6 @@ engineer:
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">⚡ DTEMPEST DIGITAL</h3>
-      <p align="center">
-        <a href="https://dtempest.digital/">
-          <img src="https://img.shields.io/badge/Live_Demo-dtempest.digital-22D3EE?style=flat-square&logo=vercel" alt="DTEMPEST DIGITAL" />
-        </a>
-      </p>
-      <p>Independent creative technology studio. Interactive platform featuring 3D WebGL capability explorer, real-time telemetry, and cloud analytics live simulators.</p>
-      <p><b>Stack:</b> React · TypeScript · Tailwind · Three.js · WebGL · FastAPI</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔍 DTEMPEST SEARCH</h3>
-      <p align="center">
-        <a href="https://search.dtempest.online/">
-          <img src="https://img.shields.io/badge/Live_Demo-search.dtempest.online-3B82F6?style=flat-square&logo=googlechrome" alt="DTEMPEST SEARCH" />
-        </a>
-      </p>
-      <p>AI-powered code intelligence & open-source scout engine scoring repositories by stack fit, license ASTs, and deterministic fork difficulty.</p>
-      <p><b>Stack:</b> React 18 · Vite · Node.js · GitHub & GitLab API</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3 align="center">📱 INEVITABLE</h3>
       <p align="center">
         <a href="https://inevitabletheapp.com/">
@@ -74,18 +52,6 @@ engineer:
       <p><b>Stack:</b> React Native · React · Vite · Node.js · TypeScript</p>
     </td>
     <td width="50%">
-      <h3 align="center">🤖 DTEMPEST BOT</h3>
-      <p align="center">
-        <a href="https://bot.dtempest.online/">
-          <img src="https://img.shields.io/badge/Live_Demo-bot.dtempest.online-8B5CF6?style=flat-square&logo=discord" alt="DTEMPEST BOT" />
-        </a>
-      </p>
-      <p>Multi-chain crypto economy daemon for Discord & Telegram with hourly XP mining, multi-chain wallets (6+ networks), and algorithmic trading.</p>
-      <p><b>Stack:</b> Python · FastAPI · React · Discord API · Telegram API</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3 align="center">🎮 GETRIGHT GAMES & WAX ECOSYSTEM</h3>
       <p align="center">
         <a href="https://getrightgames.com/">
@@ -95,6 +61,8 @@ engineer:
       <p>Player-owned blockchain gaming ecosystem connecting 4 interconnected titles sharing a unified dual-token economy ($NKFE & $GRG) on WAX.</p>
       <p><b>Stack:</b> React · Vite · WAX Blockchain · Smart Contracts · AtomicAssets</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🎬 R7VISUALS</h3>
       <p align="center">
