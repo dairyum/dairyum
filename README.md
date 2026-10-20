@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner Animado -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=70&lines=JESUS+PACHECO;FULL+STACK+ENGINEER;BUILDING+SYSTEMS+THAT+NEVER+BREAK;DTEMPEST+ECOSYSTEM" alt="Jesus Pacheco Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=70&lines=JESUS+PACHECO;FULL+STACK+ENGINEER;BUILDING+SYSTEMS+THAT+NEVER+BREAK" alt="Jesus Pacheco Typing SVG" />
 
   <p align="center">
     <strong>Senior Full Stack Engineer & Systems Architect</strong>
@@ -11,7 +11,6 @@
 
   <p align="center">
     <a href="https://jesus.dtempest.online"><img src="https://img.shields.io/badge/Live_Portfolio-jesus.dtempest.online-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
-    <a href="https://dtempest.digital"><img src="https://img.shields.io/badge/Studio-dtempest.digital-8A2BE2?style=for-the-badge&logo=sparkles&logoColor=white" alt="Studio" /></a>
     <a href="mailto:jesuspacheco1333@gmail.com"><img src="https://img.shields.io/badge/Contact-Email_Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <img src="https://komarev.com/ghpvc/?username=dairyum&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
@@ -116,7 +115,6 @@ engineer:
   ### 🌐 Connect & Network
   
   <a href="https://jesus.dtempest.online"><img src="https://img.shields.io/badge/Interactive_OS_Portfolio-00F0FF?style=for-the-badge&logo=windows11&logoColor=black" alt="Interactive Portfolio" /></a>
-  <a href="https://dtempest.digital"><img src="https://img.shields.io/badge/DTempest_Studio-8A2BE2?style=for-the-badge&logo=sparkles&logoColor=white" alt="Studio" /></a>
   <a href="mailto:jesuspacheco1333@gmail.com"><img src="https://img.shields.io/badge/Email-jesuspacheco1333@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
   <br/><br/>
